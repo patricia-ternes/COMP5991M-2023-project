@@ -1,0 +1,7 @@
+name: time_overlap
+
+dependencies:
+  - python
+  - pytest
+  - black
+  - flake8
